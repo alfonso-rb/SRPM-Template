@@ -11,7 +11,7 @@ Group:		Applications/Text
 BuildArch:	noarch
 URL:		http://www.acbss.com
 Vendor:		ACBSS, LLC
-Packager:	info@acbss.com
+Packager:	infoATacbssxDOT.com
 Provides:	jenkins-cache
 Requires:	htop
 
